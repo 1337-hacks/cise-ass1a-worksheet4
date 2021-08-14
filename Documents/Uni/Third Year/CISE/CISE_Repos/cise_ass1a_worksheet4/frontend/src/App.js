@@ -7,7 +7,7 @@ import NotFoundPage from "./pages/404";
 
 const App = () =>  {
     return (
-        <Router>
+        //<Router>
           <div>
             <h1>Software Engineering Practice Evidence Repository (SEPER)</h1>
             <ul className="header">
@@ -19,7 +19,7 @@ const App = () =>  {
               
             </div>
           </div>
-        </Router>
+        //</Router>
     );
 }
  
